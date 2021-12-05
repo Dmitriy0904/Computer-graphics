@@ -4,7 +4,6 @@ public class RotationMatrix {
     public static final int SIZE = 4;
     private double[][] values;
 
-
     public RotationMatrix() {
         this.values = new double[SIZE][SIZE];
     }
