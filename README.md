@@ -6,3 +6,5 @@
 ***
 #### Task №4: Implementation of Bresenham's algorithm
 ***
+#### Task №7: Construction of the Bezier curve
+***
