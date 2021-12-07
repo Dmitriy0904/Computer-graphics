@@ -6,5 +6,7 @@
 ***
 #### Task №4: Implementation of Bresenham's algorithm
 ***
+#### Task №6: Implementation of the algorithm of removing hidden lines
+***
 #### Task №7: Construction of the Bezier curve
 ***
